@@ -16,4 +16,3 @@ class ConcreteGeography:
 		url = self._root + 'CitySearch?area=' + str(code_area)
 		r = requests.get(url)
 		return json.loads(r.text)
-	

@@ -13,5 +13,3 @@ class MiltError:
 	def exceeded_code(self):
 		sys.stderr.write(self._prefix + 'area code exceeded. {1 < code < 48}\n')
 		sys.exit(-1)	
-		
-		
