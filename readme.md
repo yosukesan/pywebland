@@ -19,53 +19,53 @@ The API is available both in English and Japanese
 Table 1: Prefectural Code. Table taken from [1]
 | Prefectural Code | JP | EN |
 | :---: | :---: | :---: |
-|01	| $BKL3$F;(B	|Hokkaido|
-|02	| $B@D?98)(B	|Aomori Prefecture|
-|03	| $B4d<j8)(B	|Iwate Prefecture|
-|04	| $B5\>k8)(B	|Miyagi Prefecture|
-|05	| $B=)ED8)(B	|Akita Prefecture|
-|06	| $B;37A8)(B	|Yamagata Prefecture|
-|07	| $BJ!Eg8)(B	|Fukushima Prefecture|
-|08	| $B0q>k8)(B	|Ibaraki Prefecture|
-|09	| $BFJLZ8)(B	|Tochigi Prefecture|
-|10	| $B72GO8)(B	|Gunma Prefecture|
-|11	| $B:k6L8)(B	|Saitama Prefecture|
-|12	| $B@iMU8)(B	|Chiba Prefecture|
-|13	| $BEl5~ET(B	|Tokyo|
-|14	| $B?@F`@n8)(B	|Kanagawa Prefecture|
-|15	| $B?73c8)(B	|Niigata Prefecture|
-|16	| $BIY;38)(B	|Toyama Prefecture|
-|17	| $B@P@n8)(B	|Ishikawa Prefecture|
-|18	| $BJ!0f8)(B	|Fukui Prefecture|
-|19	| $B;3M|8)(B	|Yamanashi Prefecture|
-|20	| $BD9Ln8)(B	|Nagano Prefecture|
-|21	| $B4tIl8)(B	|Gifu Prefecture|
-|22	| $B@E2,8)(B	|Shizuoka Prefecture|
-|23	| $B0&CN8)(B	|Aichi Prefecture|
-|24	| $B;0=E8)(B	|Mie Prefecture|
-|25	| $B<"2l8)(B	|Shiga Prefecture|
-|26	| $B5~ETI\(B	|Kyoto Prefecture|
-|27	| $BBg:eI\(B	|Osaka Prefecture|
-|28	| $BJ<8K8)(B	|Hyogo Prefecture|
-|29	| $BF`NI8)(B	|Nara Prefecture|
-|30	| $BOB2N;38)(B	|Wakayama Prefecture|
-|31	| $BD;<h8)(B	|Tottori Prefecture|
-|32	| $BEg:,8)(B	|Shimane Prefecture|
-|33	| $B2,;38)(B	|Okayama Prefecture|
-|34	| $B9-Eg8)(B	|Hiroshima Prefecture|
-|35	| $B;38}8)(B	|Yamaguchi Prefecture|
-|36	| $BFAEg8)(B	|Tokushima Prefecture|
-|37	| $B9a@n8)(B	|Kagawa Prefecture|
-|38	| $B0&I28)(B	|Ehime Prefecture|
-|39	| $B9bCN8)(B	|Kochi Prefecture|
-|40	| $BJ!2,8)(B	|Fukuoka Prefecture|
-|41	| $B:42l8)(B	|Saga Prefecture|
-|42	| $BD9:j8)(B	|Nagasaki Prefecture|
-|43	| $B7'K\8)(B	|Kumamoto Prefecture|
-|44	| $BBgJ,8)(B	|Oita Prefecture|
-|45	| $B5\:j8)(B	|Miyazaki Prefecture|
-|46	| $B</;yEg8)(B	|Kagoshima Prefecture|
-|47	| $B2-Fl8)(B	|Okinawa Prefecture|
+|01	| 北海道	|Hokkaido|
+|02	| 青森県	|Aomori Prefecture|
+|03	| 岩手県	|Iwate Prefecture|
+|04	| 宮城県	|Miyagi Prefecture|
+|05	| 秋田県	|Akita Prefecture|
+|06	| 山形県	|Yamagata Prefecture|
+|07	| 福島県	|Fukushima Prefecture|
+|08	| 茨城県	|Ibaraki Prefecture|
+|09	| 栃木県	|Tochigi Prefecture|
+|10	| 群馬県	|Gunma Prefecture|
+|11	| 埼玉県	|Saitama Prefecture|
+|12	| 千葉県	|Chiba Prefecture|
+|13	| 東京都	|Tokyo|
+|14	| 神奈川県	|Kanagawa Prefecture|
+|15	| 新潟県	|Niigata Prefecture|
+|16	| 富山県	|Toyama Prefecture|
+|17	| 石川県	|Ishikawa Prefecture|
+|18	| 福井県	|Fukui Prefecture|
+|19	| 山梨県	|Yamanashi Prefecture|
+|20	| 長野県	|Nagano Prefecture|
+|21	| 岐阜県	|Gifu Prefecture|
+|22	| 静岡県	|Shizuoka Prefecture|
+|23	| 愛知県	|Aichi Prefecture|
+|24	| 三重県	|Mie Prefecture|
+|25	| 滋賀県	|Shiga Prefecture|
+|26	| 京都府	|Kyoto Prefecture|
+|27	| 大阪府	|Osaka Prefecture|
+|28	| 兵庫県	|Hyogo Prefecture|
+|29	| 奈良県	|Nara Prefecture|
+|30	| 和歌山県	|Wakayama Prefecture|
+|31	| 鳥取県	|Tottori Prefecture|
+|32	| 島根県	|Shimane Prefecture|
+|33	| 岡山県	|Okayama Prefecture|
+|34	| 広島県	|Hiroshima Prefecture|
+|35	| 山口県	|Yamaguchi Prefecture|
+|36	| 徳島県	|Tokushima Prefecture|
+|37	| 香川県	|Kagawa Prefecture|
+|38	| 愛媛県	|Ehime Prefecture|
+|39	| 高知県	|Kochi Prefecture|
+|40	| 福岡県	|Fukuoka Prefecture|
+|41	| 佐賀県	|Saga Prefecture|
+|42	| 長崎県	|Nagasaki Prefecture|
+|43	| 熊本県	|Kumamoto Prefecture|
+|44	| 大分県	|Oita Prefecture|
+|45	| 宮崎県	|Miyazaki Prefecture|
+|46	| 鹿児島県	|Kagoshima Prefecture|
+|47	| 沖縄県	|Okinawa Prefecture|
 
 ## City Data 
 

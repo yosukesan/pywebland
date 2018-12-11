@@ -2,7 +2,7 @@
 import sys
 sys.path.append("../../")
 
-from pymilt import Milt
+from pywebland import Milt
 
 if __name__ == "__main__":
 
