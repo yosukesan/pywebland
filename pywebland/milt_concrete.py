@@ -8,7 +8,7 @@ class MiltConcrete:
 		err = MiltError()
 
 		if lang == 'English':
-			sub_dir = 'webland english'
+			sub_dir = 'webland_english'
 		elif lang == 'Japanese':
 			sub_dir = 'webland'
 		else:
@@ -17,6 +17,6 @@ class MiltConcrete:
 		self._root_url = 'http://www.land.mlit.go.jp/' \
 					   + sub_dir \
 					   + '/api/'
+
 	def url(self):
 		return self._root_url
-		

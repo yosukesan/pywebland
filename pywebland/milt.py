@@ -11,6 +11,9 @@ class Milt:
 		self._geography = DecoratorGeography(self._milt_concrete.url())
 		self._real_estate = DecoratorRealEstate(self._milt_concrete.url())
 
+	def url(self):
+		return self._milt_concrete.url()
+
 	def geography(self):
 		return self._geography
 
