@@ -17,6 +17,7 @@ The API is available both in English and Japanese
 ## Prefectural Data (area)
 
 Table 1: Prefectural Code. Table taken from [1]
+
 | Prefectural Code | JP | EN |
 |:---:|:---:|:---:|
 |01 | 北海道 |Hokkaido |
