@@ -10,11 +10,42 @@ for Minisitry of Land, Infrastructure and Transport of Japan.
 
 The API is available both in English and Japanese
 
-# Usesage
+# Usage
 
-## Language Selection
+## Obtain City Code
 
-## Prefectural Data (area)
+* obtain city code in the prefecture.
+
+- following code returns city code in Tokyo in json format.
+
+```
+from pywebland import Milt
+
+if __name__ == "__main__":
+
+	jp_milt = Milt('Japanese') # English or Japanese
+	cities = jp_milt.geography().city(13)
+
+	for c in cities['data']:
+		print(c['id'], c['name'])
+```
+
+## Estate Transation Record
+
+* obtain city code in the prefecture.
+
+- following code returns real estate transation record from 2018 Q1 to 2018 Q2 in the specified city (13102)
+
+```
+if __name__ == "__main__":
+
+	jp_milt = Milt('Japanese') # English or Japanese
+	jp_milt.real_estate().interval('20181', '20182')
+	cities = jp_milt.real_estate().city(13102)
+	print(cities)
+```
+
+## Prefectural Code (area)
 
 Table 1: Prefectural Code. Table taken from [1]
 
@@ -67,10 +98,6 @@ Table 1: Prefectural Code. Table taken from [1]
 |45 | 宮崎県 |Miyazaki Prefecture |
 |46 | 鹿児島県 |Kagoshima Prefecture |
 |47 | 沖縄県 |Okinawa Prefecture |
-
-## City Data 
-
-## Estate Transation Record
 
 ## Reference
 [1] http://www.land.mlit.go.jp/webland/api.html (accessed 2018/12/9)
