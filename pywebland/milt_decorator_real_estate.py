@@ -6,7 +6,7 @@ class DecoratorRealEstate:
 
 	def __init__(self, root):
 
-		err = MiltError()
+		self._err = MiltError()
 		self._real_estate = ConcreteRealEstate()
 		self._root = root
 		self._from = ''
@@ -45,7 +45,7 @@ class DecoratorRealEstate:
 		"""
 
 		if code < 1 and code > 47:
-			err.exceeded_code()
+			self._err.exceeded_code()
 
 		return self._real_estate.area(self.base() + 'area=' + str(code))
 
