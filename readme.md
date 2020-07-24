@@ -100,4 +100,4 @@ Table 1: Prefectural Code. Table taken from [1]
 |47 | 沖縄県 |Okinawa Prefecture |
 
 ## Reference
-[1] http://www.land.mlit.go.jp/webland/api.html (accessed 2018/12/9)
+[1] https://www.land.mlit.go.jp/webland/api.html (accessed 2020/07/24)
