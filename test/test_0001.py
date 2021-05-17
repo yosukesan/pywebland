@@ -9,5 +9,5 @@ def test_lang():
 	en_milt = Milt('English')
 	jp_milt = Milt('Japanese')
 
-	assert en_milt.url() == 'http://www.land.mlit.go.jp/webland_english/api/'
-	assert jp_milt.url() == 'http://www.land.mlit.go.jp/webland/api/'
+	assert en_milt.url() == 'https://www.land.mlit.go.jp/webland_english/api/'
+	assert jp_milt.url() == 'https://www.land.mlit.go.jp/webland/api/'

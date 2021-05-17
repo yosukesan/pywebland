@@ -14,7 +14,7 @@ class MiltConcrete:
 		else:
 			err.lang_unknown()
 
-		self._root_url = 'http://www.land.mlit.go.jp/' \
+		self._root_url = 'https://www.land.mlit.go.jp/' \
 					   + sub_dir \
 					   + '/api/'
 
