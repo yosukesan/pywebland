@@ -46,7 +46,6 @@ def test_administrative_districtes():
 	assert kansai['hyogo']		== '28'
 	assert kansai['osaka']		== '27'
 	assert kansai['kyoto']		== '26'
-	assert kansai['osaka']		== '27'
 	assert kansai['wakayama']	== '30'
 
 

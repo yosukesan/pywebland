@@ -103,7 +103,7 @@ class ConcreteGeography:
 		"""
 
 		areas = {	'shiga'		: '25',  
-					'kyoyo'		: '26',  
+					'kyoto'		: '26',  
 					'osaka'		: '27',  
 					'hyogo'		: '28',  
 					'nara'		: '29',  
@@ -158,6 +158,6 @@ class ConcreteGeography:
 			returns area code in okinawa
 		"""
 
-		areas = {	'hokkaido'	: '01'}
+		areas = {	'okinawa'	: '47'}
 
 		return areas
